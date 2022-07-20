@@ -1,6 +1,7 @@
 img-fluid{
   max-width: auto;
   height: auto;
+  left: 50px;
   
 }
 body{
@@ -9,4 +10,10 @@ body{
   
 .header{
   padding-bottom: 10px;
+}
+img {
+  position: relative;
+  
+  top: 0px;
+  right: 0px;
 }
