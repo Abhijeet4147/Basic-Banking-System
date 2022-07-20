@@ -29,7 +29,7 @@ if (isset($_SESSION['username'])) {
         echo"<tr>";
 
         echo "<td>" . $row["username"]. "</td><td>". $row["email"] . "</td>
-              <td>" . $row["balance"]. "</td><td>". $row["Gender"]."</td>";
+              <td>" . $row["Gender"]. "</td><td>". $row["balance"]."</td>";
 
         echo"</td>";
     
@@ -39,7 +39,7 @@ if (isset($_SESSION['username'])) {
 
 }
 ?>
-<div class ="card container">
+<div class ="card container container-details">
 <?php
       if ($_GET['message'] == 'success') {
         echo "<h3><p style='color:green;' class='messagehide'>Transaction was successfully</p></h3>";

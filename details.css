@@ -50,6 +50,10 @@ table {
   /* Add some padding inside the card container */
   .container {
     padding: 20px 16px;
-    margin:40px auto auto auto;
+
+  }
+
+  .container-details {
     background: rgb(201, 168, 226);
+    margin:40px auto auto auto;
   }
