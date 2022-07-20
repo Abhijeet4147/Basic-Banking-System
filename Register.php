@@ -33,12 +33,6 @@ if(!$conn){
  }
  }
 ?>
-  
-
- 
-
-  
-  
 
 <div class="col-lg-7 text-center py5 container user-form">
                         <h1>Create New User</h1>

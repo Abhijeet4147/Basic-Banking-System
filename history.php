@@ -3,6 +3,10 @@
 
  include './header.php';
 ?>
+<div style="font-family: 'Gabriela', serif;   font-size: 40px;
+    text-align: center;
+    margin: 30px;
+}">Transcation History's</div>
 <table>
     <tr>
     <th>Sender's Name</th>

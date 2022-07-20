@@ -32,6 +32,7 @@
           <a class="nav-link " aria-current="page" href="index.php">Home</a>
           <a class="nav-link" href="User.php">Users</a>
           <a class="nav-link" href="Register.php">Register</a>
+          <a class="nav-link" href="history.php">History</a>
         </div>
 
 
