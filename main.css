@@ -1,9 +1,10 @@
-img-fluid{
+.img-fluid {
   max-width: auto;
   height: auto;
-  left: 50px;
-  
+  top: 0;
+  padding-right: 0px;
 }
+
 body{
   background-color: #f5ffff;
 }
@@ -11,9 +12,13 @@ body{
 .header{
   padding-bottom: 10px;
 }
-img {
-  position: relative;
-  
-  top: 0px;
-  right: 0px;
+
+h1{
+  text-align: bottom;
+}
+#bottom {
+  position:absolute;
+  bottom:0;
+  right: 0;
+
 }
