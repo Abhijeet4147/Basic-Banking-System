@@ -5,8 +5,8 @@ include './header.php'
   
   <img src="https://pngimg.com/uploads/bank/bank_PNG4.png" alt="" class="img-fluid rounded float-end" >
   <!-- <img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600"> -->
-  <h1>Spark Banking System</h1>
-  <div style=padding-top:200px;>
+  <h1 style="padding-left:50px;padding-top:20px">Spark Banking System</h1>
+  <div style="padding-top:100px; padding-left:50px"; >
   <h4>Get access of your account in your home</h4>
 
   <p>No more waiting in the long queues 
